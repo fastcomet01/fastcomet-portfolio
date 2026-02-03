@@ -256,7 +256,9 @@ const SkillGroup: React.FC<{title: string, skills: string[]}> = ({title, skills}
         {skills.map(skill => (
            <div key={skill} className="flex items-center gap-3">
               <div className="w-1 h-1 rounded-full bg-white/10 group-hover:bg-neon-cyan/50 transition-colors"></div>
-              <span className="text-xs text-white/70 font-light group-hover:text-white transition-colors">{skill}</span>
+              <span className="text-xs text-white/70 font-light group-hover:text-white transition-colors">
+                {skill}
+              </span>
            </div>
         ))}
      </div>
