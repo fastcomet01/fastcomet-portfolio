@@ -188,7 +188,7 @@ const Home: React.FC = () => {
                         I’m a <span className="text-white font-medium">Computer Systems Engineering</span> student mainly focusing on AI Engineering and Product Development. I have a strong academic background in algorithms and systems design with a practical interest for clean UI/UX design.
                       </p>
                       <p className="border-l border-neon-pink/40 pl-6 md:pl-8 py-2">
-                        Driven by an <span className="text-white">entrepreneurial mindset</span>, I aim to bridge the gap between technical innovation and market needs, including using AI-driven solutions that are not only mathematically robust but also commercially viable and delightful to use.
+                        Driven by an <span className="text-white">entrepreneurial mindset</span>, I aim to bridge the gap between technical innovation and market needs. I specialize in creating AI-driven solutions that are not only mathematically robust but also commercially viable and delightful to use.
                       </p>
                     </div>
                   </div>
