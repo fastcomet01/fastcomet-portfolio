@@ -20,16 +20,8 @@ export const PROJECTS: Project[] = [
     tags: ['AI', 'Automation', 'Governance'],
   },
   {
-    id: 'biteplan',
-    index: '03',
-    name: 'BitePlan',
-    subtitle: 'AI-enhanced meal planning and nutritional discovery',
-    link: 'https://biteplan-ai-126122738880.us-west1.run.app',
-    tags: ['AI', 'Meal Planning', 'Nutrition'],
-  },
-  {
     id: 'nextlink',
-    index: '04',
+    index: '03',
     name: 'NextLink',
     subtitle: 'Enterprise-grade link management and analytics',
     link: 'https://nextlink-126122738880.us-west1.run.app',
@@ -37,11 +29,19 @@ export const PROJECTS: Project[] = [
   },
   {
     id: 'mathminds',
-    index: '05',
+    index: '04',
     name: 'MathMinds Studio',
     subtitle: 'AI-powered mathematics learning and visualization platform',
     link: 'https://mathminds-studio-126122738880.us-west1.run.app',
     tags: ['AI', 'Education', 'Mathematics'],
+  },
+  {
+    id: 'ai-tools-hub',
+    index: '05',
+    name: 'AI tools hub',
+    subtitle: 'Personal collection of ai tools',
+    link: 'https://ivan-smirnov-ai-tools-hub-126122738880.us-west1.run.app',
+    tags: ['AI', 'Tools', 'Personal'],
   },
 ];
 
